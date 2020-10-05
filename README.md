@@ -1,2 +1,2 @@
 # pagbrian
-paguina para programacion web
+pagina para programacion web
